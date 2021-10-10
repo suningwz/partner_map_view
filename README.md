@@ -1,0 +1,1 @@
+# partner_map_view
